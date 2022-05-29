@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there👋 My name is Joakim!
 
 - 🏫 I’m currently studying frontend developer @ Noroff School of technology and digital media.
 - 🏡 I’m currently living Trondheim, Norway. 
