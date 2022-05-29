@@ -5,5 +5,5 @@
 - 📫 get in touch with me by adding me on discord Joakim#5184.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
