@@ -31,7 +31,7 @@
 ### 👨‍🦲: About Me :
 I’m currently studying frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @ Noroff School of technology and digital media.
 
-- 🏠 I’m currently living Trondheim, Norway. 
+- 🏠 I’m currently living in Trondheim, Norway. 
 - ⚡ When my head does not explode from coding I play alot of :video_game: and watch :tv:
 - 📫 get in touch with me by adding me on discord Joakim#5184.
 
