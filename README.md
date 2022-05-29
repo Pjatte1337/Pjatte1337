@@ -4,6 +4,7 @@
 - 🏡 I’m currently living Trondheim, Norway. 
 - 📫 get in touch with me by adding me on discord Joakim#5184.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<div id="header" align="">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50%" />
 </div>
+
