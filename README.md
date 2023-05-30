@@ -12,7 +12,7 @@
 ---
 
 ### 👨‍🦲 About Me 
-I’m currently studying frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> @ Noroff School of technology and digital media.
+Soon to graduate Frontend developer, And waiting backend developer ( 2024 ) 
 
 - 🏠 I’m currently living in Trondheim, Norway. 
 - ⚡ When my head does not explode from coding I play alot of :video_game: and watch :tv:
@@ -26,7 +26,8 @@ I’m currently studying frontend developer <img src="https://media.giphy.com/me
 ---
 
 # 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,cs,codepen,github,jquery,materialui,netlify,nodejs,php,ps,react,sass,styledcomponents,stackoverflow,tailwind,vercel,vite,vscode,wordpress&perline=12)](https://skillicons.dev)
+
 
 ---
 
