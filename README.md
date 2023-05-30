@@ -26,7 +26,7 @@ Soon to graduate Frontend developer, And waiting backend developer ( 2024 )
 ---
 
 # 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,cs,codepen,github,jquery,materialui,netlify,nodejs,php,ps,react,sass,styledcomponents,stackoverflow,tailwind,vercel,vite,vscode,wordpress&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,js,bootstrap,cs,codepen,github,jquery,materialui,netlify,nodejs,php,ps,react,sass,styledcomponents,stackoverflow,tailwind,vercel,vite,vscode,wordpress&perline=11)](https://skillicons.dev)
 
 
 ---
