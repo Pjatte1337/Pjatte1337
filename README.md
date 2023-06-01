@@ -17,6 +17,7 @@ Soon to graduate Frontend developer, And waiting backend developer ( 2024 )
 - 🏠 I’m currently living in Trondheim, Norway. 
 - ⚡ When my head does not explode from coding I play alot of :video_game: and watch :tv:
 - 📫 get in touch with me by adding me on discord Joakim#5184.
+- Check out my [Portfolio](https://holidaze-pe-2.netlify.app/)
 
 ---
 
